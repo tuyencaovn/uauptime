@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/realestate-api.urbanassets.net.ico",
     "slug": "urban-assets-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 1058,
     "timeDay": 1094,
     "timeWeek": 984,
     "timeMonth": 1030,
     "timeYear": 1058,
     "dailyMinutesDown": {
-      "2023-01-18": 2
+      "2023-01-18": 14
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/urbanassets.net.ico",
     "slug": "urban-assets-web",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 1653,
     "timeDay": 1711,
     "timeWeek": 1529,
     "timeMonth": 1604,
     "timeYear": 1653,
     "dailyMinutesDown": {
-      "2023-01-18": 0
+      "2023-01-18": 13
     }
   },
   {
@@ -44,9 +44,9 @@
     "url": "https://urbanassets.company",
     "icon": "https://icons.duckduckgo.com/ip3/urbanassets.company.ico",
     "slug": "urban-assets-back-office",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,6 +55,8 @@
     "timeWeek": 912,
     "timeMonth": 903,
     "timeYear": 937,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-18": 0
+    }
   }
 ]
