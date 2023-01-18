@@ -4,19 +4,19 @@
     "url": "https://realestate-api.urbanassets.net/api/v1/general/value",
     "icon": "https://icons.duckduckgo.com/ip3/realestate-api.urbanassets.net.ico",
     "slug": "urban-assets-api",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
     "time": 1058,
-    "timeDay": 1094,
-    "timeWeek": 984,
+    "timeDay": 1070,
+    "timeWeek": 992,
     "timeMonth": 1030,
     "timeYear": 1058,
     "dailyMinutesDown": {
-      "2023-01-18": 21
+      "2023-01-18": 27
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://urbanassets.net",
     "icon": "https://icons.duckduckgo.com/ip3/urbanassets.net.ico",
     "slug": "urban-assets-web",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 1653,
-    "timeDay": 1711,
-    "timeWeek": 1529,
-    "timeMonth": 1604,
+    "timeDay": 1672,
+    "timeWeek": 1542,
+    "timeMonth": 1605,
     "timeYear": 1653,
     "dailyMinutesDown": {
-      "2023-01-18": 20
+      "2023-01-18": 25
     }
   },
   {
@@ -45,18 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/urbanassets.company.ico",
     "slug": "urban-assets-back-office",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 968,
     "timeDay": 1724,
     "timeWeek": 1096,
     "timeMonth": 958,
     "timeYear": 968,
-    "dailyMinutesDown": {
-      "2023-01-18": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
