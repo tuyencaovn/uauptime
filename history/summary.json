@@ -4,18 +4,19 @@
     "url": "https://realestate-api.urbanassets.net/api/v1/general/value",
     "icon": "https://icons.duckduckgo.com/ip3/realestate-api.urbanassets.net.ico",
     "slug": "urban-assets-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.14%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 1058,
-    "timeDay": 1070,
-    "timeWeek": 992,
-    "timeMonth": 1030,
+    "timeDay": 1062,
+    "timeWeek": 1012,
+    "timeMonth": 1031,
     "timeYear": 1058,
     "dailyMinutesDown": {
+      "2023-01-19": 0,
       "2023-01-18": 27
     }
   },
@@ -26,15 +27,15 @@
     "slug": "urban-assets-web",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.24%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 1653,
-    "timeDay": 1672,
-    "timeWeek": 1542,
-    "timeMonth": 1605,
-    "timeYear": 1653,
+    "time": 1657,
+    "timeDay": 1830,
+    "timeWeek": 1572,
+    "timeMonth": 1615,
+    "timeYear": 1657,
     "dailyMinutesDown": {
       "2023-01-18": 25
     }
@@ -50,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 968,
-    "timeDay": 1724,
-    "timeWeek": 1096,
-    "timeMonth": 958,
-    "timeYear": 968,
+    "time": 967,
+    "timeDay": 938,
+    "timeWeek": 1123,
+    "timeMonth": 956,
+    "timeYear": 967,
     "dailyMinutesDown": {}
   }
 ]
