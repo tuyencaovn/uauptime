@@ -6,9 +6,9 @@
     "slug": "urban-assets-api",
     "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "98.11%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "98.07%",
     "uptimeYear": "99.65%",
     "time": 1072,
     "timeDay": 1240,
@@ -16,7 +16,7 @@
     "timeMonth": 1084,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2023-05-25": 2,
+      "2023-05-25": 19,
       "2023-05-15": 204,
       "2023-05-14": 623,
       "2023-03-13": 33,
@@ -29,18 +29,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/urbanassets.net.ico",
     "slug": "urban-assets-web",
     "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "99.69%",
+    "uptime": "99.68%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "98.32%",
+    "uptimeYear": "99.68%",
     "time": 1953,
     "timeDay": 1867,
     "timeWeek": 1802,
     "timeMonth": 1701,
     "timeYear": 1953,
     "dailyMinutesDown": {
-      "2023-05-25": 0,
+      "2023-05-25": 17,
       "2023-05-15": 179,
       "2023-05-14": 540,
       "2023-03-13": 21,
@@ -53,9 +53,9 @@
     "url": "https://urbanassets.company",
     "icon": "https://icons.duckduckgo.com/ip3/urbanassets.company.ico",
     "slug": "urban-assets-back-office",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -64,6 +64,8 @@
     "timeWeek": 994,
     "timeMonth": 978,
     "timeYear": 1027,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-25": 0
+    }
   }
 ]
