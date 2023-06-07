@@ -53,19 +53,19 @@
     "url": "https://urbanassets.company",
     "icon": "https://icons.duckduckgo.com/ip3/urbanassets.company.ico",
     "slug": "urban-assets-back-office",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1018,
-    "timeDay": 720,
-    "timeWeek": 842,
-    "timeMonth": 953,
+    "timeDay": 817,
+    "timeWeek": 851,
+    "timeMonth": 952,
     "timeYear": 1018,
     "dailyMinutesDown": {
-      "2023-06-07": 0
+      "2023-06-07": 6
     }
   }
 ]
