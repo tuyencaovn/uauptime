@@ -4,9 +4,9 @@
     "url": "https://realestate-api.urbanassets.net/api/v1/general/value",
     "icon": "https://icons.duckduckgo.com/ip3/realestate-api.urbanassets.net.ico",
     "slug": "urban-assets-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
@@ -16,6 +16,7 @@
     "timeMonth": 1078,
     "timeYear": 1084,
     "dailyMinutesDown": {
+      "2024-01-25": 0,
       "2023-07-25": 60,
       "2023-05-25": 28,
       "2023-05-15": 204,
@@ -28,9 +29,9 @@
     "url": "https://urbanassets.net",
     "icon": "https://icons.duckduckgo.com/ip3/urbanassets.net.ico",
     "slug": "urban-assets-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
@@ -38,8 +39,9 @@
     "timeDay": 2749,
     "timeWeek": 2426,
     "timeMonth": 2716,
-    "timeYear": 2317,
+    "timeYear": 2260,
     "dailyMinutesDown": {
+      "2024-01-25": 0,
       "2023-05-25": 27,
       "2023-05-15": 179,
       "2023-05-14": 540,
@@ -51,9 +53,9 @@
     "url": "https://urbanassets.company",
     "icon": "https://icons.duckduckgo.com/ip3/urbanassets.company.ico",
     "slug": "urban-assets-back-office",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -62,6 +64,8 @@
     "timeWeek": 915,
     "timeMonth": 995,
     "timeYear": 1013,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-25": 0
+    }
   }
 ]
