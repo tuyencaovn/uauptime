@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1120,
-    "timeDay": 1196,
-    "timeWeek": 1201,
-    "timeMonth": 1143,
-    "timeYear": 1133,
+    "timeDay": 1142,
+    "timeWeek": 1193,
+    "timeMonth": 1140,
+    "timeYear": 1132,
     "dailyMinutesDown": {
       "2024-01-25": 20
     }
@@ -26,14 +26,14 @@
     "slug": "urban-assets-web",
     "status": "up",
     "uptime": "98.66%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.00%",
+    "uptimeDay": "90.19%",
+    "uptimeWeek": "12.88%",
     "uptimeMonth": "70.41%",
     "uptimeYear": "97.53%",
-    "time": 2568,
-    "timeDay": 1852,
-    "timeWeek": 1229,
-    "timeMonth": 2103,
+    "time": 2570,
+    "timeDay": 2633,
+    "timeWeek": 1415,
+    "timeMonth": 2100,
     "timeYear": 2565,
     "dailyMinutesDown": {
       "2024-11-14": 170,
@@ -60,11 +60,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1009,
-    "timeDay": 1138,
-    "timeWeek": 1080,
-    "timeMonth": 1019,
-    "timeYear": 1017,
+    "time": 1010,
+    "timeDay": 1105,
+    "timeWeek": 1072,
+    "timeMonth": 1020,
+    "timeYear": 1018,
     "dailyMinutesDown": {
       "2024-01-25": 20
     }
