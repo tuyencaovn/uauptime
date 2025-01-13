@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1122,
-    "timeDay": 962,
-    "timeWeek": 1119,
-    "timeMonth": 1115,
-    "timeYear": 1130,
+    "timeDay": 1250,
+    "timeWeek": 1139,
+    "timeMonth": 1119,
+    "timeYear": 1131,
     "dailyMinutesDown": {
       "2024-01-25": 20
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/urbanassets.net.ico",
     "slug": "urban-assets-web",
     "status": "up",
-    "uptime": "98.76%",
+    "uptime": "98.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.53%",
     "time": 2567,
-    "timeDay": 2476,
-    "timeWeek": 2560,
-    "timeMonth": 2513,
-    "timeYear": 2542,
+    "timeDay": 2711,
+    "timeWeek": 2619,
+    "timeMonth": 2518,
+    "timeYear": 2543,
     "dailyMinutesDown": {
       "2024-11-14": 170,
       "2024-11-13": 1440,
@@ -61,10 +61,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1009,
-    "timeDay": 719,
-    "timeWeek": 902,
-    "timeMonth": 1001,
-    "timeYear": 1009,
+    "timeDay": 954,
+    "timeWeek": 891,
+    "timeMonth": 993,
+    "timeYear": 1010,
     "dailyMinutesDown": {
       "2024-01-25": 20
     }
