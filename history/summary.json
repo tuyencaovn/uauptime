@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1124,
-    "timeDay": 1115,
-    "timeWeek": 1165,
-    "timeMonth": 1107,
-    "timeYear": 1133,
-    "dailyMinutesDown": {
-      "2024-01-25": 20
-    }
+    "timeDay": 1267,
+    "timeWeek": 1164,
+    "timeMonth": 1119,
+    "timeYear": 1134,
+    "dailyMinutesDown": {}
   },
   {
     "name": "UrbanAssets-Web",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.53%",
-    "time": 2566,
-    "timeDay": 2571,
-    "timeWeek": 2610,
-    "timeMonth": 2535,
-    "timeYear": 2546,
+    "time": 2568,
+    "timeDay": 2659,
+    "timeWeek": 2557,
+    "timeMonth": 2547,
+    "timeYear": 2547,
     "dailyMinutesDown": {
       "2024-11-14": 170,
       "2024-11-13": 1440,
@@ -45,8 +43,7 @@
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
-      "2024-11-05": 1273,
-      "2024-01-25": 20
+      "2024-11-05": 1273
     }
   },
   {
@@ -61,12 +58,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1010,
-    "timeDay": 914,
+    "timeDay": 977,
     "timeWeek": 1031,
-    "timeMonth": 978,
+    "timeMonth": 983,
     "timeYear": 1011,
-    "dailyMinutesDown": {
-      "2024-01-25": 20
-    }
+    "dailyMinutesDown": {}
   }
 ]
