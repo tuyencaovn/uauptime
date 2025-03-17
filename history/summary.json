@@ -6,9 +6,9 @@
     "slug": "urban-assets-api",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1130,
     "timeDay": 969,
@@ -16,7 +16,7 @@
     "timeMonth": 1122,
     "timeYear": 1139,
     "dailyMinutesDown": {
-      "2025-03-17": 1
+      "2025-03-17": 17
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "urban-assets-web",
     "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "97.53%",
     "time": 2561,
     "timeDay": 2438,
@@ -36,7 +36,7 @@
     "timeMonth": 2542,
     "timeYear": 2551,
     "dailyMinutesDown": {
-      "2025-03-17": 1,
+      "2025-03-17": 17,
       "2024-11-14": 170,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
@@ -54,19 +54,19 @@
     "url": "https://urbanassets.company",
     "icon": "https://icons.duckduckgo.com/ip3/urbanassets.company.ico",
     "slug": "urban-assets-back-office",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1017,
-    "timeDay": 1576,
-    "timeWeek": 1192,
-    "timeMonth": 1047,
+    "time": 1018,
+    "timeDay": 1298,
+    "timeWeek": 1171,
+    "timeMonth": 1046,
     "timeYear": 1016,
     "dailyMinutesDown": {
-      "2025-03-17": 0
+      "2025-03-17": 16
     }
   }
 ]
